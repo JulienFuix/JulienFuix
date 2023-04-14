@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👨‍💻 About Me:
 I am a Fullstack developer with the goal of being a Devops
 
 
